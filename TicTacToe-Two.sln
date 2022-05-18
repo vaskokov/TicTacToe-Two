@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicTacToe-Two", "TicTacToe-Two\TicTacToe-Two.csproj", "{2BD74F8C-E8FC-483B-8E18-D1EEF2F5CE8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FamilyMembers", "FamilyMembers\FamilyMembers.csproj", "{71D1FED1-5B69-4699-8C5E-4D7E983CDB16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BD74F8C-E8FC-483B-8E18-D1EEF2F5CE8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BD74F8C-E8FC-483B-8E18-D1EEF2F5CE8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BD74F8C-E8FC-483B-8E18-D1EEF2F5CE8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BD74F8C-E8FC-483B-8E18-D1EEF2F5CE8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71D1FED1-5B69-4699-8C5E-4D7E983CDB16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71D1FED1-5B69-4699-8C5E-4D7E983CDB16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71D1FED1-5B69-4699-8C5E-4D7E983CDB16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71D1FED1-5B69-4699-8C5E-4D7E983CDB16}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F8F0166E-9972-4387-A5E7-6AC0BDBE1FC0}
+	EndGlobalSection
+EndGlobal
